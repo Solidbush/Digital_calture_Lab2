@@ -31,7 +31,7 @@ def digital_sort():
         print(el, file=output_file)
 
 
-def new_feature():
+def new_feature2():
     pass
 
 
