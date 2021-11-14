@@ -31,4 +31,8 @@ def digital_sort():
         print(el, file=output_file)
 
 
+def new_feature():
+    pass
+
+
 digital_sort()
